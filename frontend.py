@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import requests
 
-st.markdown("<h1 style='text-align: center; color: lightblue;'>The Tanansh Project</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: lightblue;'>The Maple Project</h1>", unsafe_allow_html=True)
 st.text('')
 st.markdown("<h2 style='text-align: center; color: lightblue;'>Welcome to Our Search Engine :-)</h2>", unsafe_allow_html=True)
 st.text('')
